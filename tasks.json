@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "Сделать лабораторную",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "Подготовить презентацию",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Записать скринкаст",
+        "completed": false
+    }
+]
